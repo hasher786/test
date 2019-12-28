@@ -16,7 +16,7 @@ git merge <branchname> --> branch from master to other
 git branch -D <branchname> --> delete the branch , -d can be also used
 
 
-git remote add origin https://github.com/hasher786/git.git
+git remote add origin https://github.com/hasher786/test.git
 git remote -v
 git push -u origin master
 
