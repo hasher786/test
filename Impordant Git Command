@@ -1,0 +1,14 @@
+git log
+git branch
+git status
+git init
+git add .
+git commit -m "" --> commit the changes
+git master --> switching to master
+git checkout <branchname> --> switching between the branch
+git checkout -b <branchname> --> create the branch
+git checkout -- .  --> go back to last commit
+git reset --hard <id>
+git merge <branchname> --> branch from master to other
+git branch -D <branchname> --> delete the branch , -d can be also used
+
